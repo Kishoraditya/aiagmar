@@ -1,0 +1,102 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Documentation
+site/
+docs/api/build/
+
+# Logs
+logs/
+*.log
+
+# Local development
+.DS_Store
+Thumbs.db
+
+# Security
+security_reports/
+contrast_security.yaml
+*.pcap
+
+
+temp/
+temp_2/
+
+# Research workspace
+research_workspace/
+example_workspace/
+
+# MCP temporary files
+.mcp_cache/
+
+# API keys and credentials
+.env
+*.key
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Generated content
+**/generated_images/
+**/research_output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp

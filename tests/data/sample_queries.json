@@ -1,0 +1,27 @@
+[
+  {
+    "id": "q1",
+    "query": "What is quantum computing?",
+    "type": "basic"
+  },
+  {
+    "id": "q2",
+    "query": "Tell me about the history of artificial intelligence",
+    "type": "historical"
+  },
+  {
+    "id": "q3",
+    "query": "Compare Python and JavaScript programming languages",
+    "type": "comparative"
+  },
+  {
+    "id": "q4",
+    "query": "What are the best restaurants in San Francisco?",
+    "type": "local"
+  },
+  {
+    "id": "q5",
+    "query": "Research climate change solutions",
+    "type": "complex"
+  }
+]

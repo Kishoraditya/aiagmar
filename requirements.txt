@@ -1,0 +1,50 @@
+# Web framework
+Django
+wagtail
+
+# API and networking
+fastapi
+uvicorn
+httpx
+sse-starlette
+python-multipart
+
+# LLM frameworks
+langchain
+langchain-community
+langchain-core
+langgraph
+langchain-openai
+
+# Vector databases and embeddings
+chromadb
+sentence-transformers
+
+# Data processing and validation
+pydantic
+python-dotenv
+jsonschema
+pyld  # For JSON-LD in ANP
+uuid
+
+# MCP dependencies
+jsonrpcserver
+jsonrpcclient
+
+# File handling and security
+cryptography
+aiofiles
+pillow
+setuptools
+
+# Utility libraries
+tenacity
+loguru
+python-dateutil
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+
+psutil

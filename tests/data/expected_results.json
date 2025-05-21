@@ -1,0 +1,72 @@
+[
+  {
+    "id": "e1",
+    "query_id": "q1",
+    "expected_content": [
+      "quantum",
+      "computing",
+      "qubit",
+      "superposition",
+      "entanglement"
+    ],
+    "expected_sources": true,
+    "expected_images": true,
+    "min_word_count": 200
+  },
+  {
+    "id": "e2",
+    "query_id": "q2",
+    "expected_content": [
+      "artificial intelligence",
+      "history",
+      "Dartmouth",
+      "AI winter",
+      "machine learning"
+    ],
+    "expected_sources": true,
+    "expected_images": true,
+    "min_word_count": 250
+  },
+  {
+    "id": "e3",
+    "query_id": "q3",
+    "expected_content": [
+      "Python",
+      "JavaScript",
+      "comparison",
+      "syntax",
+      "use cases"
+    ],
+    "expected_sources": true,
+    "expected_images": true,
+    "min_word_count": 200
+  },
+  {
+    "id": "e4",
+    "query_id": "q4",
+    "expected_content": [
+      "San Francisco",
+      "restaurant",
+      "dining",
+      "rating",
+      "cuisine"
+    ],
+    "expected_sources": true,
+    "expected_images": true,
+    "min_word_count": 150
+  },
+  {
+    "id": "e5",
+    "query_id": "q5",
+    "expected_content": [
+      "climate change",
+      "solution",
+      "renewable",
+      "policy",
+      "sustainability"
+    ],
+    "expected_sources": true,
+    "expected_images": true,
+    "min_word_count": 300
+  }
+]

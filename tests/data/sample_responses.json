@@ -1,0 +1,57 @@
+[
+  {
+    "id": "r1",
+    "query_id": "q1",
+    "manager_response": "I'll coordinate research on quantum computing.",
+    "pre_response": "I'll present a research plan on quantum computing basics.",
+    "research_results": "Found information about quantum bits, superposition, and quantum algorithms.",
+    "image_results": "Generated an image illustrating quantum computing concepts.",
+    "file_management": "Saved research materials on quantum computing.",
+    "summary": "Quantum computing uses quantum mechanics principles like superposition and entanglement to perform calculations. Unlike classical computers that use bits (0 or 1), quantum computers use quantum bits or qubits that can exist in multiple states simultaneously.",
+    "verification": "Verified facts about quantum computing from multiple sources."
+  },
+  {
+    "id": "r2",
+    "query_id": "q2",
+    "manager_response": "I'll coordinate research on AI history.",
+    "pre_response": "I'll present a research plan covering the evolution of AI.",
+    "research_results": "Found information about AI development from the 1950s to present day.",
+    "image_results": "Generated a timeline image of AI development.",
+    "file_management": "Saved research materials on AI history.",
+    "summary": "Artificial intelligence research began in the 1950s with the Dartmouth Conference. The field has experienced several cycles of enthusiasm and disappointment, known as 'AI winters'. Major breakthroughs include expert systems in the 1980s, machine learning in the 1990s, and deep learning in the 2010s.",
+    "verification": "Verified historical facts about AI development."
+  },
+  {
+    "id": "r3",
+    "query_id": "q3",
+    "manager_response": "I'll coordinate a comparison of Python and JavaScript.",
+    "pre_response": "I'll present a research plan comparing these programming languages.",
+    "research_results": "Found information about syntax, use cases, and performance differences.",
+    "image_results": "Generated comparison charts for Python vs JavaScript.",
+    "file_management": "Saved comparison materials.",
+    "summary": "Python excels in data science, AI, and backend development with readable syntax and strong library support. JavaScript dominates web development, runs in browsers, and uses event-driven programming. Python is typically easier for beginners, while JavaScript is essential for frontend web development.",
+    "verification": "Verified technical details about both languages."
+  },
+  {
+    "id": "r4",
+    "query_id": "q4",
+    "manager_response": "I'll coordinate research on San Francisco restaurants.",
+    "pre_response": "I'll present a research plan for finding top restaurants.",
+    "research_results": "Found information about highly-rated restaurants across different cuisines and neighborhoods.",
+    "image_results": "Generated images of popular San Francisco dining spots.",
+    "file_management": "Saved restaurant research materials.",
+    "summary": "San Francisco offers diverse dining options, from Michelin-starred establishments to local favorites. Top restaurants include Acquerello (Italian), Benu (Asian-influenced), Zuni Café (California cuisine), La Taqueria (Mexican), and State Bird Provisions (American).",
+    "verification": "Verified restaurant ratings and information from multiple sources."
+  },
+  {
+    "id": "r5",
+    "query_id": "q5",
+    "manager_response": "I'll coordinate comprehensive research on climate change solutions.",
+    "pre_response": "I'll present a research plan covering technological, policy, and behavioral solutions.",
+    "research_results": "Found information about renewable energy, carbon capture, policy frameworks, and individual actions.",
+    "image_results": "Generated images illustrating various climate solutions.",
+    "file_management": "Saved climate solution research in organized folders.",
+    "summary": "Climate change solutions span multiple domains: Energy (renewable sources, efficiency improvements), Transportation (electric vehicles, public transit), Agriculture (sustainable farming, reduced meat consumption), Industry (circular economy, carbon capture), and Policy (carbon pricing, international agreements).",
+    "verification": "Verified climate science facts and solution effectiveness from peer-reviewed sources."
+  }
+]
